@@ -39,7 +39,7 @@ sudo docker compose up -d
 
 | Variable | Descripcion | Default |
 |----------|-------------|---------|
-| `OPENPROJECT_HOST__NAME` | IP y puerto de acceso | `192.168.0.59:8080` |
+| `OPENPROJECT_HOST__NAME` | IP y puerto de acceso | `localhost:8080` |
 | `PORT` | Puerto del host | `8080` |
 | `OPENPROJECT_HTTPS` | Habilitar HTTPS | `false` |
 | `SECRET_KEY_BASE` | Secreto para sesiones | `changeme` |
