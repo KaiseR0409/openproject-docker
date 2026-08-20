@@ -397,7 +397,3 @@ sudo certbot certificates
 ```
 
 ---
-
-## Licencia
-
-MIT
